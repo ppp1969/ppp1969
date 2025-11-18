@@ -1,4 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:30CACD,100:330B68&height=100&section=header&text=SeongHun%20Jeon&fontSize=40&fontColor=ffffff" width="100%"/>
+---
+
+### 👋 About Me
+
+안녕하세요, 백엔드와 AI를 함께 다루는 개발자 **전성훈(SeongHun Jeon)** 이다.  
+실사용자를 대상으로 한 **독서 지원 서비스(ReadWith)**, **AI 그림일기 서비스(Melissa)** 를 설계·구현하고 운영 경험을 쌓고 있다.
 
 ---
 
@@ -12,13 +17,6 @@
 | 2024.09 ~ 2025.02 | UMC 7기 백엔드 파트장 (0끌 Project) |
 | 2025.01 ~ | **Melissa** 백엔드·아키텍처 설계 및 배포/운영 |
 | 2025.04 ~ 2025.11 | **ReadWith** 백엔드·인프라 담당 (ACE 최우수상) |
-
----
-
-### 👋 About Me
-
-- 백엔드와 AI를 함께 다루는 개발자 **전성훈(SeongHun Jeon)** 이다.  
-- 실사용자를 대상으로 한 **독서 지원 서비스(ReadWith)**, **AI 그림일기 서비스(Melissa)** 를 설계·구현하고 운영 경험을 쌓고 있다.
 
 ---
 
@@ -65,53 +63,50 @@
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </span>
 <span>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 </span>
 <span>
-  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=SpringSecurity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 </span>
 <span>
-  <img src="https://img.shields.io/badge/Spring%20WebFlux-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JPA%20/%20Hibernate-59666C?style=for-the-badge&logoColor=white"/>
 </span>
 <span>
-  <img src="https://img.shields.io/badge/JPA%20/%20Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"/>
-</span>
-<span>
-  <img src="https://img.shields.io/badge/QueryDSL-02569B?style=for-the-badge&logo=Gradle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/QueryDSL-02569B?style=for-the-badge&logoColor=white"/>
 </span>
 <br/>
 <span>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </span>
 <span>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </span>
 <span>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 </span>
 <span>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
 </span>
 
 #### 🗄 DB & Cache
 <span>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </span>
 <span>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </span>
 <span>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 </span>
 
 #### ☁ Cloud / Infra
 <span>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </span>
 
 #### 🤖 AI / Data
 <span>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=OpenAI&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 </span>
 <span>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
