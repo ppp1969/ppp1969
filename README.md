@@ -1,10 +1,9 @@
 ---
 
 ### 👋 About Me
-
-안녕하세요, 백엔드와 AI를 함께 다루는 개발자 **전성훈(SeongHun Jeon)** 이다.  
-실사용자를 대상으로 한 **독서 지원 서비스(ReadWith)**, **AI 그림일기 서비스(Melissa)** 를 설계·구현하고 운영 경험을 쌓고 있다.
-
+> AI · Web Backend Developer  
+안녕하세요, 백엔드와 AI를 함께 공부하는 개발자 **전성훈(SeongHun Jeon)** 입니다.  
+꾸준한 문제 정의와 구조적 해결을 통해 **사용자를 이해하는 서비스**를 만드는 것을 목표로 하고 있습니다.
 ---
 
 ### 📌 Main Projects & Activities
