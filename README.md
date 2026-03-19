@@ -12,9 +12,9 @@
 | 기간 | 내용 |
 |------|------|
 | 2020.03 ~ 2026.02 | 광운대학교 정보융합학부 졸업 (4.26/4.5) |
-| 2023.09 ~ 2024.02 <br />[GitHub](https://github.com/BapZip/Backend) | **BabZip** - 대학생 대상 밥약 매칭 서비스 <br/>· UMC 5기 백엔드 참여 |
+| 2023.09 ~ 2024.02 <br />[GitHub](https://github.com/BapZip/Backend) | **BabZip** - 대학가 인근 밥집 랭킹 & 실시간 소통 서비스 <br/>· UMC 5기 백엔드 참여 |
 | 2024 | 국가우수장학생 선발 |
-| 2024.09 ~ 2025.02 <br />[GitHub](https://github.com/yeongkkeul/yeongkkuel-server) | **0끌** - 소비 습관 개선을 위한 금융 서비스 <br/>· UMC 7기 백엔드 파트장 |
+| 2024.09 ~ 2025.02 <br />[GitHub](https://github.com/yeongkkeul/yeongkkuel-server) | **0끌** - 소비 습관 개선(무지출챌린지)을 위한 금융 서비스 <br/>· UMC 7기 백엔드 파트장 |
 | 2025.01 ~ (진행중) <br />[AppStore](https://apps.apple.com/kr/app/melissa/id6741430491) · [PlayStore](https://play.google.com/store/apps/details?id=com.melissa.melissaFE) · [GitHub](https://github.com/team-Melissa/melissa-BE) | **Melissa** - AI 기반 대화형 그림일기 서비스 <br/>· 백엔드/아키텍처 설계 및 배포·운영 전담 <br/>→ 한국콘텐츠진흥원×광운대 2025 아이디어 사업화 지원사업 선정 <br/>→ 광운대학교 창업보육투자유치 경연회 장려상 <br/>→ 광운대학교 캠퍼스타운사업단 지원사업 선정 |
 | 2025.04 ~ (진행중) <br />[GitHub](https://github.com/Read-With/BE) | **ReadWith** - LLM 기반 인물관계 그래프 시각화 독서 보조 서비스 <br/>· 아이디어/백엔드/인프라 리드 <br/>→ 광운대학교 졸업작품전시회 **ACE 최우수상** 수상 |
 | 2026.02 ~ 2026.03 <br />[Chrome Web Store](https://chromewebstore.google.com/detail/gjbmnjppfipmgenfbcgnaabgbokpaipk?utm_source=item-share-cb) · [GitHub](https://github.com/ppp1969/boj-forcer-extension) | **BOJ Forcer** - 백준 문제풀이 습관 형성을 돕는 크롬 확장프로그램 <br/>· 기획/개발/배포 전담 <br/>· solved.ac 연동 기반 문제 추천 및 강제 학습 플로우 설계 |
