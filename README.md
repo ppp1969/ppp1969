@@ -8,13 +8,13 @@ Spring 기반 백엔드 설계, 데이터 정합성, 운영 안정화 경험을 
 
 ### 📌 Main Projects & Activities
 
-| 기간 | 프로젝트 | 핵심 내용 |
-|------|----------|-----------|
-| 2025.01 ~ 진행중 | **[Melissa](https://github.com/team-Melissa/melissa-BE)**<br/>[App Store](https://apps.apple.com/kr/app/melissa/id6741430491) · [Play Store](https://play.google.com/store/apps/details?id=com.melissa.melissaFE) | AI 기반 대화형 그림일기 서비스<br/>백엔드 / 아키텍처 / 배포·운영<br/>외부 AI API와 DB 트랜잭션 경계를 분리하고, 선택적 멱등성·JWT 경계 강화·S3 key 중심 저장 구조 전환을 적용했습니다.<br/>아이디어 사업화 지원사업 선정 · 창업 경진대회 수상 |
-| 2025.04 ~ 진행중 | **[ReadWith](https://github.com/Read-With/BE)** | EPUB 기반 독서 보조 서비스<br/>아이디어 / 백엔드 / 인프라 리드<br/>`locator + txtOffset` 기반 상태 모델 전환, EPUB 정규화 파이프라인 구축, 회귀 테스트 도입, 저사양 서버 튜닝을 진행했습니다.<br/>프로젝트 전시 최우수상 |
-| 2024.09 ~ 2025.02 | **[0끌](https://github.com/yeongkkeul/yeongkkuel-server)** | 소비 습관 개선 서비스<br/>백엔드 개발 및 서비스 안정화<br/>사용자 소유권 검증, 음수 입력 차단, 실시간 채팅 동기화, 배치 기반 랭킹 집계를 구현했습니다. |
-| 2026.02 ~ 2026.03 | **[BOJ Forcer](https://github.com/ppp1969/boj-forcer-extension)**<br/>[Chrome Web Store](https://chromewebstore.google.com/detail/gjbmnjppfipmgenfbcgnaabgbokpaipk?utm_source=item-share-cb) | 백준 문제풀이 습관 형성 크롬 확장 프로그램<br/>기획 / 개발 / 배포 전담<br/>solved.ac 연동 기반 문제 추천 및 강제 학습 플로우를 설계했습니다. |
-| 2023.09 ~ 2024.02 | **[BabZip](https://github.com/BapZip/Backend)** | 음식점 랭킹 및 실시간 소통 서비스<br/>백엔드 개발 참여<br/>실시간 소통 기능과 음식점 정보 API를 구현했습니다. |
+| 기간 | 프로젝트 | 역할 | 문제 해결 |
+|------|----------|------|-----------|
+| 2025.01 ~ 진행중 | **[Melissa](https://github.com/team-Melissa/melissa-BE)**<br/>AI 기반 대화형 그림일기 서비스<br/>[App Store](https://apps.apple.com/kr/app/melissa/id6741430491) · [Play Store](https://play.google.com/store/apps/details?id=com.melissa.melissaFE)<br/><sub>아이디어 사업화 지원사업 선정 · 창업 경진대회 수상</sub> | 백엔드<br/>아키텍처 설계<br/>배포·운영 | 외부 AI API–DB 트랜잭션 경계 분리<br/>선택적 멱등성 도입<br/>JWT 경계 강화<br/>S3 key 중심 저장 구조 전환 |
+| 2025.04 ~ 진행중 | **[ReadWith](https://github.com/Read-With/BE)**<br/>EPUB 기반 독서 보조 서비스<br/><sub>프로젝트 전시 최우수상</sub> | 아이디어 기획<br/>백엔드<br/>인프라 리드 | `locator + txtOffset` 상태 모델 전환<br/>EPUB 정규화 파이프라인 구축<br/>회귀 테스트 도입<br/>저사양 서버 튜닝 |
+| 2024.09 ~ 2025.02 | **[0끌](https://github.com/yeongkkeul/yeongkkuel-server)**<br/>소비 습관 개선 서비스 | 백엔드 개발<br/>서비스 안정화 | 사용자 소유권 검증<br/>음수 입력 차단<br/>실시간 채팅 동기화<br/>배치 기반 랭킹 집계 |
+| 2026.02 ~ 2026.03 | **[BOJ Forcer](https://github.com/ppp1969/boj-forcer-extension)**<br/>백준 문제풀이 습관 형성 크롬 확장 프로그램<br/>[Chrome Web Store](https://chromewebstore.google.com/detail/gjbmnjppfipmgenfbcgnaabgbokpaipk?utm_source=item-share-cb) | 기획<br/>개발<br/>배포 전담 | solved.ac 연동 기반 문제 추천<br/>강제 학습 플로우 설계<br/>확장 프로그램 배포 |
+| 2023.09 ~ 2024.02 | **[BabZip](https://github.com/BapZip/Backend)**<br/>음식점 랭킹 및 실시간 소통 서비스 | 백엔드 개발 참여 | 실시간 소통 기능 구현<br/>음식점 정보 API 개발 |
 
 ---
 
